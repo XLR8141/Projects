@@ -9,5 +9,17 @@ Debugging errors and structuring the project logically
 making the code as clean as possible
 
 Through persistence and practice, I gradually overcame these challenges and completed the project successfully. This experience helped me learn a lot about programming problem solving and project organization and boosted my confidence as a beginner coder.
+and it was an ahivement for me that i completed such a project on my own
 
 ## about the project:
+
+
+As part of the project I was tasked with writing **five key functions** each designed to demonstrate a specific programming concept such as **loops, conditional statements (if-else), and switch-case**.  
+
+Each of these functions contained **multiple smaller tasks**, allowing for practical application of the concepts:  
+- Functions using **loops** to perform calculations, generate sequences, or process repetitive tasks.  
+- Functions using **if-else statements** to make decisions based on user input.  
+- Functions using **switch statements** to handle multiple possible choices in a clean and organized way.  
+- Each function was modular, self-contained, and reusable, contributing to a **structured and maintainable program design**.  
+
+This exercise helped gain understanding of **modular programming, code reusability, and logical problem-solving** while practicing different core C++ concepts.

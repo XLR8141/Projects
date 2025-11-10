@@ -45,7 +45,7 @@ public:
     void menu() {
         int c;
          {
-            cout << "\n--- Menu ---" << endl;
+            cout << "================= Menu ===============" << endl;
             cout << "1. Add Book" << endl;
             cout << "2. Show All Books" << endl;
             cout << "3. Search Book by ID" << endl;
@@ -176,3 +176,4 @@ int main() {
     l.menu();
     return 0;
 }
+
